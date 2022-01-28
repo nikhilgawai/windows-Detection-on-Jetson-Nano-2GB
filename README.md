@@ -1,5 +1,5 @@
 
-# Window Detection on Yolov5 using Jetson Nano 2gb Developer Kit.
+# Window Detection on Jetson Nano 2GB Developer Kit using Yolov5.
 
 Window detection system which will detect the quality of a window,
 identify whether it’s clear, foggy, clean and unclean and then recommend the steps to take
@@ -108,7 +108,13 @@ AI applications. All Jetson modules and developer kits are supported by JetPack 
 supports all Jetson modules.
 
 ## Jetson Nano 2GB
-![IMG_20220125_115056](https://user-images.githubusercontent.com/89011801/151315708-15079da0-36f6-488f-b1c4-fe870a48a524.jpg)
+
+
+
+https://user-images.githubusercontent.com/89011801/151482100-936d971d-0673-4ff0-b3a0-1093f4687b30.mp4
+
+
+
 
 
 ## Proposed System
@@ -285,8 +291,6 @@ sudo python3 detect.py --weights yolov5s.pt --source 0
 train your model on colab and download the weights and past them into yolov5 folder
 link of project
 
-Insert gif or link to demo
-
 
 ## Running Window Detection Model
 source '0' for webcam
@@ -347,13 +351,13 @@ who because of lack of time or other reasons are unable to keep their windows cl
 industry and save them a lot of time and money.
 ## Refrences
 
-1]Roboflow :- https://roboflow.com/
+#### 1]Roboflow :- https://roboflow.com/
 
-2] Datasets or images used: https://www.gettyimages.ae/photos/window?family=editorial&assettype=image&phrase=window&sort=mostpopular
+#### 2] Datasets or images used: https://www.gettyimages.ae/photos/window?family=editorial&assettype=image&phrase=window&sort=mostpopular
 
-3] Google images
+#### 3] Google images
 ## Articles
 
-[1] https://wedowindowssantafe.com/importance-of-window-cleaning/
+#### [1] https://wedowindowssantafe.com/importance-of-window-cleaning/
 
-[2] https://laborpanes.com/blog/7-reasons-you-should-get-a-residential-window-cleaning/
+#### [2] https://laborpanes.com/blog/7-reasons-you-should-get-a-residential-window-cleaning/
